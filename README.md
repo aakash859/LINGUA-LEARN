@@ -1,37 +1,34 @@
-# Lingua Learn 🌍📚
-
-Lingua Learn is an AI-powered educational platform that helps students
-learn concepts in their own regional languages such as Tamil, Hindi,
-Telugu, Kannada, Malayalam, and English.
+# Lingua-Learn 
 
 ## Problem
-Most AI learning tools are English-first.
-Students studying in regional languages struggle to understand concepts.
+Most AI learning tools are English-first. Students studying in regional languages
+like Tamil, Telugu, Kannada, Malayalam, and Hindi struggle to understand concepts clearly.
 
 ## Solution
-Lingua Learn allows students to:
-- Select their preferred language
-- Ask questions in that language
-- Get simple explanations in the same language
+Lingua-Learn is an AI-powered educational app that explains concepts in the
+user’s selected regional language, making learning more inclusive and accessible.
+
+## Features
+- Multi-language support (Tamil, Telugu, Kannada, Malayalam, Hindi, English)
+- Simple question → explanation flow
+- Clean, student-friendly UI
+- Works as a lightweight web app
+
+## Tech Stack (Microsoft Aligned)
+- Frontend: Replit Web App
+- AI: Azure OpenAI (planned integration)
+- Hosting: Azure App Service (planned)
+- Version Control: GitHub
+- AI Coding Assistant: GitHub Copilot
 
 ## Impact
 - Helps rural and regional-language students
-- Improves understanding and inclusivity
-- Supports UN SDG 4: Quality Education
-
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- AI: Azure OpenAI (planned integration)
-- Hosting: Replit
-- Version Control: GitHub
+- Improves education accessibility
+- Aligns with UN SDG 4 – Quality Education
 
 ## Demo
-Live demo hosted on Replit.
+Live demo available via Replit  
+(Video demo will be added for Imagine Cup submission)
 
-## Future Scope
-- Voice input
-- Offline support
-- School curriculum integration
-
-# Team
-- Solo Student Developer (INDIA)
+## Team
+Solo student project (Imagine Cup 2026 MVP Round)
